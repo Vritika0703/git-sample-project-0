@@ -1,4 +1,4 @@
-# git-sample-project-0
+# Calculator Project
 Sample Project for Git events
 
 Sample Project 0 is a simple calculator.
